@@ -1,0 +1,92 @@
+{
+    "Destination Port": {
+        "Q1": 80.0,
+        "Q3": 80.0,
+        "IQR": 0.0,
+        "lower_bound": 80.0,
+        "upper_bound": 80.0,
+        "outliers_count": 22851,
+        "outliers_percentage": 46.096586782861294
+    },
+    "Flow Duration": {
+        "Q1": 44726.25,
+        "Q3": 6851854.5,
+        "IQR": 6807128.25,
+        "lower_bound": -10165966.125,
+        "upper_bound": 17062546.875,
+        "outliers_count": 7774,
+        "outliers_percentage": 15.682239974178971
+    },
+    "Total Fwd Packets": {
+        "Q1": 2.0,
+        "Q3": 5.0,
+        "IQR": 3.0,
+        "lower_bound": -2.5,
+        "upper_bound": 9.5,
+        "outliers_count": 3310,
+        "outliers_percentage": 6.6771564592915364
+    },
+    "Total Backward Packets": {
+        "Q1": 1.0,
+        "Q3": 5.0,
+        "IQR": 4.0,
+        "lower_bound": -5.0,
+        "upper_bound": 11.0,
+        "outliers_count": 2783,
+        "outliers_percentage": 5.6140563221173245
+    },
+    "Total Length of Fwd Packets": {
+        "Q1": 26.0,
+        "Q3": 72.0,
+        "IQR": 46.0,
+        "lower_bound": -43.0,
+        "upper_bound": 141.0,
+        "outliers_count": 7872,
+        "outliers_percentage": 15.879932219801502
+    },
+    "Total Length of Bwd Packets": {
+        "Q1": 6.0,
+        "Q3": 11601.0,
+        "IQR": 11595.0,
+        "lower_bound": -17386.5,
+        "upper_bound": 28993.5,
+        "outliers_count": 880,
+        "outliers_percentage": 1.77519567497781
+    },
+    "Fwd Packet Length Max": {
+        "Q1": 6.0,
+        "Q3": 42.0,
+        "IQR": 36.0,
+        "lower_bound": -48.0,
+        "upper_bound": 96.0,
+        "outliers_count": 6905,
+        "outliers_percentage": 13.929234245138383
+    },
+    "Fwd Packet Length Mean": {
+        "Q1": 6.0,
+        "Q3": 38.0,
+        "IQR": 32.0,
+        "lower_bound": -42.0,
+        "upper_bound": 86.0,
+        "outliers_count": 3926,
+        "outliers_percentage": 7.919793431776003
+    },
+    "Bwd Packet Length Max": {
+        "Q1": 6.0,
+        "Q3": 5840.0,
+        "IQR": 5834.0,
+        "lower_bound": -8745.0,
+        "upper_bound": 14591.0,
+        "outliers_count": 0,
+        "outliers_percentage": 0.0
+    },
+    "Bwd Packet Length Mean": {
+        "Q1": 6.0,
+        "Q3": 1934.5,
+        "IQR": 1928.5,
+        "lower_bound": -2886.75,
+        "upper_bound": 4827.25,
+        "outliers_count": 0,
+        "outliers_percentage": 0.0
+    }
+}

@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / ambient files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Datasets (Do NOT push multi-MB/GB datasets to git)
+*.csv
+*.zip
+*.pcap
+*.pcap_ISCX
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+
+# SQLite DB & Large exports
+projet_ml_cyber/data/*.db
+projet_ml_cyber/data/*.csv
+projet_ml_cyber/data/*.parquet
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS generated
+.DS_Store
+Thumbs.db

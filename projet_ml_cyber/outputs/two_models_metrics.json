@@ -1,0 +1,38 @@
+{
+    "R\u00e9gression Logistique": {
+        "type": "Supervis\u00e9 (Probabiliste)",
+        "accuracy": 0.9874,
+        "precision": 0.9726702508960573,
+        "recall": 0.9990796134376438,
+        "f1_score": 0.9856980703745744,
+        "roc_auc": 0.9997507761183291,
+        "confusion_matrix": [
+            [
+                2766,
+                61
+            ],
+            [
+                2,
+                2171
+            ]
+        ]
+    },
+    "Isolation Forest": {
+        "type": "Non-Supervis\u00e9 (Arbres d'Isolement)",
+        "accuracy": 0.458,
+        "precision": 0.3613835828600929,
+        "recall": 0.32213529682466635,
+        "f1_score": 0.340632603406326,
+        "roc_auc": 0.48988250339284706,
+        "confusion_matrix": [
+            [
+                1590,
+                1237
+            ],
+            [
+                1473,
+                700
+            ]
+        ]
+    }
+}
